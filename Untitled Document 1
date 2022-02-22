@@ -1,0 +1,613 @@
+useradd -g sudo -s `which bash` -m app
+
+echo "app ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+
+
+       OR
+       docker pull quay.io/holokila557/holokali55:remove-unused-code
+       
+ssh root@147.182.231.59
+@Jmalamin557@w
+
+sudo adduser app
+sudo usermod -a -G sudo app
+
+mysql> CREATE USER 'root'@'%' IDENTIFIED BY '@Jmalamin557@';
+
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
+
+mysql> FLUSH PRIVILEGES;
+
+mysql> exit
+
+apt update
+
+apt install apt-transport-https ca-certificates curl software-properties-common -y
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
+
+add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+
+apt update
+
+apt install docker-ce -y
+
+  sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  
+   chmod +x /usr/local/bin/docker-compose
+  
+  sudo usermod -aG docker app
+    
+   sudo su - app
+      
+  git clone https://github.com/openware/opendax.git
+
+  cd opendax 
+   
+   sudo apt install gnupg2 curl git
+
+gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+
+  curl -sSL https://get.rvm.io | bash -s stable
+  
+ quay.io/looo2/hokioo:mbap
+  
+  source /home/app/.rvm/scripts/rvm
+
+rvm install "ruby-2.6.6"
+
+sudo apt-get install libmariadb-dev
+
+gem install bundler:2.1.4
+
+bundle install 
+
+zerotradinghero.com
+
+sudo nano config/app.yml
+
+rake service:all
+
+Seeded users:
+Email: admin@barong.io, password: 0lDHd9ufs9t@
+Email: john@barong.io, password: Am8icnzEI3d!
+
+  peatio: quay.io/openware/peatio:3.1.0-7df3b8f
+  barong: quay.io/openware/barong:2.6.44
+  frontend: quay.io/zoyaprth/juihj:main
+  tower: quay.io/openware/tower:2.6.66
+  rango: quay.io/openware/rango:2.6.1
+
+
+
+
+  peatio: quay.io/openware/peatio:3.1.0-7df3b8f
+  barong: quay.io/openware/barong:latest
+  sonic: quay.io/zoyaprth/juihj:main
+  tower: quay.io/openware/tower:3.0.68
+  rango: quay.io/openware/tower:3.1.0-1f64f44
+  finex: quay.io/openware/openfinex:3.1.0-6a4639e
+  
+  
+quay.io/totora44/hogo44:wallet-screen its bad
+
+github link
+
+
+https://github.com/szerotoherowithtrading
+
+Chopstick.Exchange
+
+https://github.com/zerotradinghero/udonex-ui.git
+
+docker pull quay.io/jmalamin5555/rty:patch-1
+ssh root@178.62.44.248
+@Alamin@
+cd eth1 
+zerotohero-withtrading.net
+
+http://178.62.44.248:8545
+
+
+https://bscscan.com/address/#{address}
+
+https://bscscan.com/tx/#{txid}
+
+
+Support                        
+zerotoherowithtrading@gmail.com
+@Jmalamin557@
+sudo apt install winehq-stable
+@Jmalamin557@w
+
+zerotradinghero@gmail.com
+
+frontend/udonex-ui:2.6.24
+
+sudo dpkg --add-architecture i386 
+
+sudo apt install git wine wine32 wine64 winetrick curl 
+
+
+Noodles.Exchange
+
+ssh root@157.245.132.27
+
+images:
+  peatio: quay.io/openware/peatio:3.1.0-e4c7aa1
+  barong: quay.io/openware/barong:3.0.19
+  frontend:  quay.io/totora44/kkkkk:main
+  tower: quay.io/openware/tower:3.0.68
+  rango: quay.io/openware/rango:3.1.0-b2239c2
+
+docker pull quay.io/tradingtrhero/uyrkd:latest
+
+
+docker build -t frontend/udonex-ui:2.6.24 .
+
+docker pull quay.io/jmalamin5555/exex
+
+
+quay.io/jmfaysal557/jmfaysal557:valo
+
+
+docker pull coinh/opendax_frontend_1:20220104c
+
+
+
+docker build coinh/opendax_frontend_1:20220104c
+
+
+
+
+docker build  -f Dockerfile -t my-golang-app
+
+
+   git clone https://github.com/jmalamin00/udonex-ui.git
+
+
+01727419631
+
+gochangeme
+
+docker pull quay.io/jmfaysal557/pleasew:valo
+
+
+
+quay.io/jmfaysal5555/jcsa:patch-1
+
+
+:vJX3!nWw/Q~m7^557
+
+
+
+
+ethereum node
+
+
+sudo apt-get install
+
+sudo apt-get update
+
+sudo add-apt-repository ppa:ethereum/ethereum
+
+geth --syncmode=light  [ unknown sync mode "fast", want "full", "snap" or "light" r 
+
+geth attach
+
+eth.syncing
+
+              OR
+
+
+sudo apt-get install
+
+sudo apt-get update
+
+sudo add-apt-repository ppa:ethereum/ethereum
+
+sudo apt-get update
+
+
+
+
+
+
+
+
+Your new key was generated
+
+Public address of the key:   0x31fa24879575841a85e96C20347ca29a4d331dAf
+Path of the secret key file: node/keystore/UTC--2022-01-14T08-42-45.417276193Z--31fa24879575841a85e96c20347ca29a4d331daf
+
+
+
+
+
+
+
+
+
+docker pull quay.io/zerotra/pleasewertu:latest
+
+
+database 
+
+username = doadmin
+password = kyFh5CcLY5XSF0y1
+host = db-mysql-nyc1-85302-do-user-6921845-0.b.db.ondigitalocean.com
+port = 25060
+database = defaultdb
+sslmode = REQUIRED
+
+
+  athena: gcr.io/zsmartex/athena:1.0.13
+  contrive: gcr.io/zsmartex/contrive:1.0.4
+  finex: gcr.io/zsmartex/finex:1.0.20
+  rango: quay.io/openware/rango:2.7.0-b9d8372
+
+
+quantex: registry.gitlab.com/zsmartex/quantex:b9a9539d
+  applogic: registry.gitlab.com/zsmartex/applogic:9841e3cf
+  finex: registry.gitlab.com/zsmartex/finex:ca980591
+
+
+
+
+
+sudo apt-get install -y  ethereum
+
+
+geth account new
+
+parity account new
+
+docker pull quay.io/totora/hhoo:master
+
+docker pull quay.io/totora/hhoo:remove-unused-code
+
+docker pull quay.io/totora/hhoo:patch-4
+
+docker pull quay.io/totora/hhoo:patch-3
+
+vault:
+  root_token: s.J95bpVOxJeVCHBHMWvSBrxdK
+  peatio_rails_token: s.rLYdeVNoN4X7BKXGB7NdP1NO
+  peatio_crypto_token: s.K04H2mczO8ExZl4VssxsypBD
+  peatio_upstream_token: s.TyxJZKnnfKcpqSe7k3T0H3Zc
+  peatio_matching_token: s.KTEitqDkKGNuipVvdAp5GiCv
+  barong_token: s.ERJhJF4vT3jSQzSMuwXN276f
+  finex_engine_token: s.mpnXOLzvLMURroTIt04eOcTo
+  
+  
+  
+  
+  
+
+barong: registry.gitlab.com/zsmartex/barong:40e3449b
+  peatio: registry.gitlab.com/zsmartex/peatio:9214b240
+  rango: quay.io/openware/rango:3.0.2
+  
+  
+ images:
+  quantex: registry.gitlab.com/zsmartex/quantex:b9a9539d
+  applogic: registry.gitlab.com/zsmartex/applogic:9841e3cf
+  finex: registry.gitlab.com/zsmartex/finex:ca980591
+  
+  
+  deposit,hot,ee.wram wallet
+  
+sudo nano /etc/docker/daemon.json
+  
+  {
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "10m",
+    "max-file": "3" 
+  }
+}
+
+  sudo systemctl restart docker
+  
+  docker swarm init --advertise-addr 127.0.0.1
+  
+  rake render:config 
+  
+  docker swarm init --advertise-addr 127.0.0.1
+  
+  docker stack deploy -c compose/cryptonodes.yaml opendax
+  
+  docker service ls
+  
+  sudo docker service logs opendax_parity
+  
+  rake wallet:create["deposit","http://0.0.0.0:8545","@Jmalamin557@"]
+    rake wallet:create["hot","http://0.0.0.0:8545","@Jmalamin557@"]
+    rake wallet:create["warm","http://0.0.0.0:8545","@Jmalamin557@"]
+    rake wallet:create["fee","http://0.0.0.0:8545","@Jmalamin557@"]
+    
+   docker ps |grep litecoind
+
+  docker exec -it <container_id> bash
+  export LC_ALL=C
+bitcoin-cli --rpcuser=admin --rpcpassword=@Jmalamin557@ --rpcport=18332 getnewaddress "hot"
+
+bitcoin-cli --rpcuser=admin --rpcpassword=@Jmalamin557@ --rpcport=18332 getnewaddress "deposit"
+bitcoin-cli --rpcuser=admin --rpcpassword=@Jmalamin557@ --rpcport=18332 getnewaddress "warm"
+
+
+
+wallets:
+  eth:
+  - kind: deposit
+    address: '0xea8169d91e0b5c68ef912b92a00611138646b34a'
+    max_balance: 0.0
+    secret: "@Jmalamin557@"
+  - kind: hot
+    address: '0x16ede3cd0f0bcb26abfc42ec4bb453d321b4960a'
+    max_balance: 100.0
+    secret: "@Jmalamin557@"
+  - kind: warm
+    address: '0x76cafb8a6d371efee5a0a26714555880e05eb9b3'
+    max_balance: 1000.0
+    secret: "@Jmalamin557@"
+
+https://github.com/zsmartex/z-dax/commit/f8b2bda43c98ef97123b8bcf698eb2c9566ac5d8
+
+images:
+  barong: registry.gitlab.com/zsmartex/barong:338d8656
+  peatio: registry.gitlab.com/zsmartex/peatio:44a8d812
+  quantex: registry.gitlab.com/zsmartex/quantex:bcba9bc2
+  applogic: registry.gitlab.com/zsmartex/applogic:bff4924f
+  finex: registry.gitlab.com/zsmartex/finex:7ee603a9
+  rango: quay.io/openware/rango:3.0.2
+
+
+
+  peatio: quay.io/openware/peatio:2.6.48
+  barong: quay.io/openware/barong:2.6.44
+  frontend: quay.io/totora/hhoo:remove-unused-code
+  tower: quay.io/openware/tower:2.6.66
+  rango: quay.io/openware/rango:2.6.1
+
+
+quay.io/openware/finex:2.6.39
+
+images:
+  barong: registry.gitlab.com/zsmartex/barong:338d8656
+  peatio: registry.gitlab.com/zsmartex/peatio:44a8d812
+  quantex: registry.gitlab.com/zsmartex/quantex:bcba9bc2
+  applogic: registry.gitlab.com/zsmartex/applogic:bff4924f
+  finex: registry.gitlab.com/zsmartex/finex:7ee603a9
+  rango: quay.io/openware/rango:3.0.2
+  
+  
+ cx-exchange new_ui image
+  
+ balance not show but boot ok quay.io/totora44/hogo44:remove-unused-code   20.9mb
+  
+ balance not show but boot ok quay.io/totora44/hogo44:new-ui-history 19.7mb 
+  
+balance not show but boot ok  quay.io/totora44/hogo44:new_ui_mobile 21.9mb
+  
+ balance not show but boot ok quay.io/totora44/hogo44:fix-announcement 19.7mb 
+  
+  
+  
+  sergzuko
+sergzuko
+1 year ago
+install clean debian 10.3
+
+ssh root@143.244.188.211
+
+@Jmalamin557@w
+
+#install sudo
+
+apt update
+
+apt install sudo
+
+
+
+#create user app
+
+useradd -g sudo -s `which bash` -m app
+
+
+
+#change password for user
+
+sudo passwd app
+
+
+
+#add user to sudo group
+
+sudo usermod -aG sudo app
+
+
+
+#disable ipv6 OPTIONAL
+
+
+
+nano /etc/sysctl.conf
+
+
+
+#And add the following line at the end of the file:
+
+
+
+net.ipv6.conf.all.disable_ipv6 = 1
+
+sudo sysctl -p
+
+
+
+su - app
+
+
+
+Install RVM
+
+sudo apt install gnupg2 curl git
+
+gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+
+\curl -sSL https://get.rvm.io | bash -s stable --rails
+
+
+
+source /home/app/.rvm/scripts/rvm
+
+
+
+git clone https://github.com/openware/opendax.git
+
+
+
+cd opendax
+
+
+
+#change websire domain config/app.yml
+
+sudo nano config/app.yml
+
+rvm install "ruby-2.6.5"
+
+
+
+gem install bundler:2.1.4
+
+
+
+bundle update
+
+
+
+bundle install
+
+
+
+#install docker
+
+sudo apt-get update 
+sudo apt-get install \apt-transport-https \ca-certificates \curl \gnupg-agent\software-properties-common
+
+  
+
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+
+
+
+sudo apt-key fingerprint 0EBFCD88
+
+
+
+sudo add-apt-repository \
+
+   "deb [arch=amd64] https://download.docker.com/linux/debian \
+
+   $(lsb_release -cs) \
+
+   stable"
+
+   
+
+sudo apt-get update  
+
+
+
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+
+
+sudo usermod -aG docker $USER
+
+
+
+
+
+sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+sudo chmod +x /usr/local/bin/docker-compose
+
+
+
+#logout and login with user app
+
+exit
+
+su - app
+
+
+
+#run with defauld in opendax folder
+
+rake service:all 
+  
+  
+  
+  
+  Install Opendax Platform
+
+Today, I will make tutorial to install Opendax on Digitalocean VPS
+
+    Create new user on your server
+
+    sudo adduser [Your Username]
+    [Your password]
+    sudo usermod -a -G sudo [Your Username]
+
+2. Install docker
+
+    Follow this document: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+
+3. Install docker compose: Write this command
+
+    curl -L “https://github.com/docker/compose/releases/download/1.23.1/docker-compose-$(uname -s)-$(uname -m)” -o /usr/local/bin/docker-compose
+    sudo chmod +x /usr/local/bin/docker-compose
+
+4. Install Ruby on Your username
+
+    cd Your-Username
+    Install ruby: https://gorails.com/setup/ubuntu/18.04
+
+5. Git clone opendax
+
+    https://github.com/openware/opendax
+
+6. Config on opendax/config/app.yml
+
+7. Start and Run site
+
+    cd opendax
+    source ~/.rvm/scripts/rvm
+    gem install bundler
+    bundle install
+    rake service:all
+
+Good days all !!!
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
